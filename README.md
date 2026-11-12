@@ -54,16 +54,21 @@ Python was used for data preparation and analysis, while SQLite3 was used for SQ
 ## Dashboard Screenshots
 
 ### 1. Airbnb Market Overview
-![Airbnb Market Overview]()
+
+![Market Overview](https://github.com/Rodiat1234/airbnb-market-performance-analysis/raw/refs/heads/main/Market%20Overview.png)
 
 ### 2. Pricing and Property Analysis
-![Pricing and Property Analysis](screenshots/filename.png)
+
+![Pricing and Property Analysis](https://github.com/Rodiat1234/airbnb-market-performance-analysis/raw/refs/heads/main/AnalystLab%20Task%201%20dashboard%202%20%28Price%20and%20Property%29.png)
 
 ### 3. Host Performance Analysis
-![Host Performance Analysis](screenshots/filename.png)
+
+![Host Performance Analysis](https://github.com/Rodiat1234/airbnb-market-performance-analysis/raw/refs/heads/main/AnalystLab%20Track%201%20Dashboard%203.png)
 
 ### 4. Review Activity and Listing Scores
-![Review Activity and Listing Scores](screenshots/filename.png)
+
+![Review Activity and Listing Scores](https://github.com/Rodiat1234/airbnb-market-performance-analysis/raw/refs/heads/main/Track%201%20dashboard%201.png)
+
 ## Data Quality Checks
 
 Some of the data quality checks carried out included:
