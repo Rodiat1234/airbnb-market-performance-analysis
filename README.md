@@ -51,6 +51,19 @@ The project includes four Power BI dashboard pages:
 
 Python was used for data preparation and analysis, while SQLite3 was used for SQL queries. Power BI was used to develop the interactive dashboard.
 
+## Dashboard Screenshots
+
+### 1. Airbnb Market Overview
+![Airbnb Market Overview]()
+
+### 2. Pricing and Property Analysis
+![Pricing and Property Analysis](screenshots/filename.png)
+
+### 3. Host Performance Analysis
+![Host Performance Analysis](screenshots/filename.png)
+
+### 4. Review Activity and Listing Scores
+![Review Activity and Listing Scores](screenshots/filename.png)
 ## Data Quality Checks
 
 Some of the data quality checks carried out included:
